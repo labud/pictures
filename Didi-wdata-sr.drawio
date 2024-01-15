@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T09:46:42.392Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6irWTuGuijQBs25tOF2H" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T09:47:26.826Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="EKKyR_rgoRCGS2Z0xQbd" version="22.1.15" type="github">
   <diagram name="Page-1" id="_Tm6Zg3FOmJO2AEdU1JB">
     <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,7 +30,7 @@
         <mxCell id="1Gt6x5z-0TugZDWT3jUm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="1Gt6x5z-0TugZDWT3jUm-4" target="1Gt6x5z-0TugZDWT3jUm-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1Gt6x5z-0TugZDWT3jUm-4" value="北极星" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1Gt6x5z-0TugZDWT3jUm-4" value="北极星&lt;br&gt;@石孝川" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Gt6x5z-0TugZDWT3jUm-5" value="Druid" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -62,9 +62,6 @@
         </mxCell>
         <mxCell id="1Gt6x5z-0TugZDWT3jUm-21" value="指标服务化&lt;br&gt;@江国荐" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="670" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Bp8YyRw3292iraKzpdMJ-1" value="@石孝川" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="725" y="228" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bp8YyRw3292iraKzpdMJ-2" value="@朱峰" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="730" y="338" width="60" height="30" as="geometry" />
