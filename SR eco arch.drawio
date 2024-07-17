@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T02:47:27.947Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="oChU0G7UZI-qO-4Zpf2B" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-17T02:56:09.473Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="61tiw6qB54I8Mooogqgx" version="24.5.5" type="github">
   <diagram name="Page-1" id="D_IX4kyP0td2Q5xGJLHQ">
     <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,6 +81,9 @@
         </mxCell>
         <mxCell id="GKdCBrLc1cDLdygv-HJY-32" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;引擎侧&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="465" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GKdCBrLc1cDLdygv-HJY-34" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Grafana&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Odin&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="750" y="160" width="80" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
