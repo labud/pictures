@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2024-08-13T02:29:46.334Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.0" etag="56u92MH9s-St1CaqTP7s" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-13T02:49:44.721Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="Y-hYhRd6Ilx36pSUn-3L" version="24.7.0" type="github">
   <diagram name="Page-1" id="8roV8xatTKnz_ykaXFLn">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yBbRbee-hTRwwgJrkESU-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="130" width="120" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="yBbRbee-hTRwwgJrkESU-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="130" width="120" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="yBbRbee-hTRwwgJrkESU-1" value="Mysql&amp;nbsp;&lt;div&gt;binlog&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="110" y="170" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yBbRbee-hTRwwgJrkESU-2" value="埋点日志" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yBbRbee-hTRwwgJrkESU-3" value="Data API" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="110" y="410" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yBbRbee-hTRwwgJrkESU-5" value="Flink" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yBbRbee-hTRwwgJrkESU-6" value="Spark" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="380" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yBbRbee-hTRwwgJrkESU-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="280" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="yBbRbee-hTRwwgJrkESU-13" value="Paimon" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="440" y="410" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yBbRbee-hTRwwgJrkESU-14" value="Hive" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="440" y="290" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yBbRbee-hTRwwgJrkESU-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="130" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yBbRbee-hTRwwgJrkESU-16" value="OLAP存储" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="440" y="150" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yBbRbee-hTRwwgJrkESU-17" value="OLAP：SR、Druid、CK" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="130" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yBbRbee-hTRwwgJrkESU-18" value="Spark SQL&lt;div&gt;/Presto&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="280" width="100" height="240" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
