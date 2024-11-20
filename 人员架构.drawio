@@ -13,19 +13,19 @@
         <mxCell id="SRzxtgwv8fCbd7rKjlmJ-3" value="统一元数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SRzxtgwv8fCbd7rKjlmJ-4" value="R6: 1&lt;div&gt;R5: 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SRzxtgwv8fCbd7rKjlmJ-4" value="R6: 1&lt;div&gt;R5: 1&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#00ff00&quot;&gt;R4: 1&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="430" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="SRzxtgwv8fCbd7rKjlmJ-5" value="R6: 1&lt;div&gt;R5: 1&lt;/div&gt;&lt;div&gt;R4: 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SRzxtgwv8fCbd7rKjlmJ-5" value="R6: 1&lt;div&gt;R5: 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="430" width="115" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="SRzxtgwv8fCbd7rKjlmJ-7" value="R5: 1&lt;div&gt;R4: 0.5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SRzxtgwv8fCbd7rKjlmJ-7" value="&lt;font color=&quot;#00ff00&quot;&gt;R6: 1&lt;/font&gt;&lt;div&gt;R5: 1&lt;br&gt;&lt;div&gt;R4: 1&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="430" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="SRzxtgwv8fCbd7rKjlmJ-12" value="RSS&amp;nbsp; 和 网关" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SRzxtgwv8fCbd7rKjlmJ-13" value="R6: 1&lt;div&gt;R4: 1.5&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SRzxtgwv8fCbd7rKjlmJ-13" value="R6: 1&lt;br&gt;&lt;div&gt;R4: 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="430" width="120" height="140" as="geometry" />
         </mxCell>
       </root>
