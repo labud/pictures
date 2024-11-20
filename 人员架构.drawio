@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="dmhopDktcdoqIyuuUfad">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SRzxtgwv8fCbd7rKjlmJ-1" value="向量化计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SRzxtgwv8fCbd7rKjlmJ-2" value="Serverless Spark" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SRzxtgwv8fCbd7rKjlmJ-3" value="统一元数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SRzxtgwv8fCbd7rKjlmJ-4" value="R6: 1&lt;div&gt;R5: 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="430" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="SRzxtgwv8fCbd7rKjlmJ-5" value="R6: 1&lt;div&gt;R5: 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="430" width="115" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="SRzxtgwv8fCbd7rKjlmJ-7" value="R5: 1&lt;div&gt;R4: 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="430" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="SRzxtgwv8fCbd7rKjlmJ-8" value="R6: 1&lt;div&gt;R4: 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="430" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="SRzxtgwv8fCbd7rKjlmJ-9" value="RSS 及网关" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
