@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="J1r2JFNc_uGJzp2qgnaq">
-    <mxGraphModel dx="1434" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,6 +37,12 @@
         <mxCell id="dEF_L4vClN2xMfpDiyhu-10" value="Planner" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="180" y="300" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dEF_L4vClN2xMfpDiyhu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dEF_L4vClN2xMfpDiyhu-12" target="dEF_L4vClN2xMfpDiyhu-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dEF_L4vClN2xMfpDiyhu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dEF_L4vClN2xMfpDiyhu-12" target="dEF_L4vClN2xMfpDiyhu-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dEF_L4vClN2xMfpDiyhu-12" value="Physical Plan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="210" y="370" width="340" height="40" as="geometry" />
         </mxCell>
@@ -57,6 +63,21 @@
         </mxCell>
         <mxCell id="dEF_L4vClN2xMfpDiyhu-20" value="Executor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dEF_L4vClN2xMfpDiyhu-21" value="Java Runtime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="525" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dEF_L4vClN2xMfpDiyhu-22" value="C++" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="345" y="525" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dEF_L4vClN2xMfpDiyhu-23" value="C++" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="515" y="525" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dEF_L4vClN2xMfpDiyhu-24" value="&amp;nbsp;Substrait" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="420" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dEF_L4vClN2xMfpDiyhu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.65;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dEF_L4vClN2xMfpDiyhu-24" target="dEF_L4vClN2xMfpDiyhu-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
