@@ -1,23 +1,68 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="25.0.3">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="1354" dy="981" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1026" dy="650" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
-        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-1" value="Process Bar" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;strokeColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#BABABA;points=[];verticalAlign=middle;stackBorder=10;stackSpacing=-10;resizable=1;" parent="1" vertex="1">
-          <mxGeometry x="219" y="111" width="390" height="100" as="geometry" />
+        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-1" value="" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;strokeColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#BABABA;points=[];verticalAlign=middle;stackBorder=10;stackSpacing=-10;resizable=1;" parent="1" vertex="1">
+          <mxGeometry x="129" y="87" width="643" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-2" value="Step 1" style="shape=step;perimeter=stepPerimeter;strokeColor=#6C8EBF;fontFamily=Helvetica;fontSize=14;fontColor=#6C8EBF;fillColor=#dae8fc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="NjAqU9Y5rHBkyYTPuW-a-1" vertex="1">
-          <mxGeometry x="10" y="30" width="100" height="60" as="geometry" />
+        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-2" value="2025. 01 - 02" style="shape=step;perimeter=stepPerimeter;strokeColor=#6C8EBF;fontFamily=Helvetica;fontSize=14;fontColor=#6C8EBF;fillColor=#dae8fc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="NjAqU9Y5rHBkyYTPuW-a-1" vertex="1">
+          <mxGeometry x="10" y="30" width="198" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-3" value="Step 2" style="shape=step;perimeter=stepPerimeter;strokeColor=#82B366;fontFamily=Helvetica;fontSize=14;fontColor=#82B366;fillColor=#d5e8d4;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="NjAqU9Y5rHBkyYTPuW-a-1" vertex="1">
-          <mxGeometry x="100" y="30" width="100" height="60" as="geometry" />
+        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-3" value="2025. 03 - 06" style="shape=step;perimeter=stepPerimeter;strokeColor=#82B366;fontFamily=Helvetica;fontSize=14;fontColor=#82B366;fillColor=#d5e8d4;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="NjAqU9Y5rHBkyYTPuW-a-1" vertex="1">
+          <mxGeometry x="198" y="30" width="216" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-4" value="Step 3" style="shape=step;perimeter=stepPerimeter;strokeColor=#D6B656;fontFamily=Helvetica;fontSize=14;fontColor=#D6B656;fillColor=#fff2cc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="NjAqU9Y5rHBkyYTPuW-a-1" vertex="1">
-          <mxGeometry x="190" y="30" width="100" height="60" as="geometry" />
+        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-4" value="2025. 07 - 12" style="shape=step;perimeter=stepPerimeter;strokeColor=#D6B656;fontFamily=Helvetica;fontSize=14;fontColor=#D6B656;fillColor=#fff2cc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="NjAqU9Y5rHBkyYTPuW-a-1" vertex="1">
+          <mxGeometry x="404" y="30" width="229" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-5" value="Step 4" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#f8cecc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="NjAqU9Y5rHBkyYTPuW-a-1" vertex="1">
-          <mxGeometry x="280" y="30" width="100" height="60" as="geometry" />
+        <mxCell id="9dyHUlaL81vcFkH40l6c-1" value="在离线混部" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="27" y="228" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9dyHUlaL81vcFkH40l6c-2" value="Native Engine" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="27" y="390" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9dyHUlaL81vcFkH40l6c-3" value="统一元数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="27" y="546" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9dyHUlaL81vcFkH40l6c-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="121" y="334" as="sourcePoint" />
+            <mxPoint x="768" y="334" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9dyHUlaL81vcFkH40l6c-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="123" y="499" as="sourcePoint" />
+            <mxPoint x="770" y="499" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9dyHUlaL81vcFkH40l6c-8" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff3333&quot;&gt;建设Spark on K8S队列能力，灰度3个Spark on K8S集群&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;优化Spark Driver 申请容器速度，申请速度提升一倍&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;RSS 上线部分L0/L1作业，fetch失败率和性能不恶化&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="116" y="193" width="202" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="9dyHUlaL81vcFkH40l6c-10" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff3333&quot;&gt;上线2000个SQL任务，性能提升40%以上&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;优化TableScan处理逻辑，缩短IO Wait时间&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;针对算法慢作业进行分析，总结问题和优化方案&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="116" y="366" width="202" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="9dyHUlaL81vcFkH40l6c-12" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff3333&quot;&gt;搭建UC服务，接入4种元数据，且提供统一读接口&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Flink Jar血缘解析POC，覆盖率不低于 20%&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;分析Lucky架构元数据模式，给出对接方案&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="116" y="520" width="202" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="9dyHUlaL81vcFkH40l6c-14" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;探索自建IDC 混部模式，下云一个集群，混部3000 core&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;优化K8S混部调度能力，调度速度50 pods/s&lt;/li&gt;&lt;ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;RSS 支持Spill等能力，覆盖公司L1及以下链路，fetch失败率 &amp;lt; 0.05%&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="313" y="193" width="202" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="9dyHUlaL81vcFkH40l6c-15" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff3333&quot;&gt;迁移10个EMR集群至混部集群，退机X w core&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;K8S支持批调度能力，调度速度达到100pods/s&lt;/li&gt;&lt;ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;网络优化：K8S集群优化容器化网络，调度能力提升X倍&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="533" y="189" width="202" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="9dyHUlaL81vcFkH40l6c-17" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff3333&quot;&gt;上线5000个SQL任务，性能提升35%以上&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;UDF改写：重写热点UDF，避免性能回退&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;内存优化：改写Native内存管理和作业参数，降低作业内存使用和OOM问题&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="313" y="366" width="202" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="9dyHUlaL81vcFkH40l6c-18" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff3333&quot;&gt;上线9000个SQL任务，性能提升30%以上&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;算子优化：针对性优化sort、window等CPU密集算子，提升Native性能&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;精细化调度：针对少量UDF，减少回退数据，降低回退损耗&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="533" y="365.5" width="202" height="95.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9dyHUlaL81vcFkH40l6c-19" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff3333&quot;&gt;建设血缘能力，提供常见BI侧血缘，覆盖率不低于50%&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;接入3-4种AI元数据，且标准化访问接口&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;对接1种计算引擎，提供三段式数据访问能力&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="313" y="520" width="202" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="9dyHUlaL81vcFkH40l6c-20" value="&lt;ul&gt;&lt;li&gt;接&lt;font color=&quot;#ff3333&quot;&gt;入10种元数据，提供基本的管理能力&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;提供至少3条核心链路的全链路血缘能力，效果类故障MTTR缩短50%&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;对接3种计算引擎，涵盖AI&amp;amp;BI方向，提供统一数据访问接口&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="533" y="520" width="202" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
