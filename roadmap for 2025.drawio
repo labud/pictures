@@ -61,7 +61,7 @@
         <mxCell id="9dyHUlaL81vcFkH40l6c-19" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff3333&quot;&gt;建设血缘能力，提供常见BI侧血缘，覆盖率不低于50%&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;接入3-4种AI元数据，且标准化访问接口&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;对接1种计算引擎，提供三段式数据访问能力&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="313" y="520" width="202" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="9dyHUlaL81vcFkH40l6c-20" value="&lt;ul&gt;&lt;li&gt;接&lt;font color=&quot;#ff3333&quot;&gt;入10种元数据，提供基本的管理能力&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;提供至少3条核心链路的全链路血缘能力，效果类故障MTTR缩短50%&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;对接3种计算引擎，涵盖AI&amp;amp;BI方向，提供统一数据访问接口&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;spacing=2;" vertex="1" parent="1">
+        <mxCell id="9dyHUlaL81vcFkH40l6c-20" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff3333&quot;&gt;接入10种元数据，提供基本的管理能力&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;提供至少3条核心链路的全链路血缘能力，效果类故障MTTR缩短50%&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;对接3种计算引擎，涵盖AI&amp;amp;BI方向，提供统一数据访问接口&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="533" y="520" width="202" height="95" as="geometry" />
         </mxCell>
       </root>
