@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="IvGomVfQnvnbm-iyZiaq">
-    <mxGraphModel dx="1026" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="1750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XO-GALKPfHcBI_01L1h0-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="30" width="340" height="350" as="geometry" />
+          <mxGeometry x="100" y="-30" width="340" height="410" as="geometry" />
         </mxCell>
         <mxCell id="XO-GALKPfHcBI_01L1h0-2" value="Lambda" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="160" width="120" height="60" as="geometry" />
@@ -31,8 +31,14 @@
             <mxPoint x="450" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XO-GALKPfHcBI_01L1h0-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="XO-GALKPfHcBI_01L1h0-9" target="XO-GALKPfHcBI_01L1h0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XO-GALKPfHcBI_01L1h0-9" value="模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="60" width="280" height="60" as="geometry" />
+          <mxGeometry x="130" y="-10" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XO-GALKPfHcBI_01L1h0-10" value="统一元数据" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="130" y="80" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
