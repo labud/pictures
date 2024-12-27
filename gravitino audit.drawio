@@ -57,7 +57,7 @@
         <mxCell id="nGSwjGivShMAEDOQnhm3-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nGSwjGivShMAEDOQnhm3-24" target="nGSwjGivShMAEDOQnhm3-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nGSwjGivShMAEDOQnhm3-24" value="实时作业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nGSwjGivShMAEDOQnhm3-24" value="实时作业&lt;div&gt;Larc&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nGSwjGivShMAEDOQnhm3-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nGSwjGivShMAEDOQnhm3-27" target="nGSwjGivShMAEDOQnhm3-24">
