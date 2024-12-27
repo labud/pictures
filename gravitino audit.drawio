@@ -1,9 +1,71 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="4ohithZJhYFy9gZGZG-m">
-    <mxGraphModel>
+    <mxGraphModel dx="1876" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nGSwjGivShMAEDOQnhm3-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nGSwjGivShMAEDOQnhm3-5" target="nGSwjGivShMAEDOQnhm3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGSwjGivShMAEDOQnhm3-5" value="索引&lt;div&gt;RedIndex&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nGSwjGivShMAEDOQnhm3-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nGSwjGivShMAEDOQnhm3-6" target="nGSwjGivShMAEDOQnhm3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGSwjGivShMAEDOQnhm3-6" value="召回&lt;div&gt;LVE/LSE/LRE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nGSwjGivShMAEDOQnhm3-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nGSwjGivShMAEDOQnhm3-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nGSwjGivShMAEDOQnhm3-7" value="粗排/精排&lt;div&gt;打分服务：Lambda&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nGSwjGivShMAEDOQnhm3-9" value="策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nGSwjGivShMAEDOQnhm3-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nGSwjGivShMAEDOQnhm3-10" target="nGSwjGivShMAEDOQnhm3-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGSwjGivShMAEDOQnhm3-10" value="模型A&lt;div&gt;Larc&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="155" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nGSwjGivShMAEDOQnhm3-11" value="实验B&lt;div&gt;Racing&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="150" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nGSwjGivShMAEDOQnhm3-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nGSwjGivShMAEDOQnhm3-11" target="nGSwjGivShMAEDOQnhm3-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="170" as="sourcePoint" />
+            <mxPoint x="550" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nGSwjGivShMAEDOQnhm3-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nGSwjGivShMAEDOQnhm3-20" target="nGSwjGivShMAEDOQnhm3-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGSwjGivShMAEDOQnhm3-20" value="样本&lt;div&gt;Larc&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="220" y="155" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nGSwjGivShMAEDOQnhm3-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nGSwjGivShMAEDOQnhm3-23" target="nGSwjGivShMAEDOQnhm3-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGSwjGivShMAEDOQnhm3-23" value="离线特征&lt;div&gt;Hamster&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nGSwjGivShMAEDOQnhm3-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nGSwjGivShMAEDOQnhm3-24" target="nGSwjGivShMAEDOQnhm3-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGSwjGivShMAEDOQnhm3-24" value="实时作业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nGSwjGivShMAEDOQnhm3-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nGSwjGivShMAEDOQnhm3-27" target="nGSwjGivShMAEDOQnhm3-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGSwjGivShMAEDOQnhm3-27" value="日志&lt;div&gt;Kafka&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="190" width="60" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
