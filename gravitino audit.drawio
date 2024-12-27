@@ -63,8 +63,8 @@
         <mxCell id="nGSwjGivShMAEDOQnhm3-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nGSwjGivShMAEDOQnhm3-27" target="nGSwjGivShMAEDOQnhm3-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nGSwjGivShMAEDOQnhm3-27" value="日志&lt;div&gt;Kafka&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="190" width="60" height="80" as="geometry" />
+        <mxCell id="nGSwjGivShMAEDOQnhm3-27" value="SessionLabel&lt;div&gt;Kafka/Hive&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="190" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
