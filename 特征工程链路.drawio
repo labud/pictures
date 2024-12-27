@@ -25,12 +25,6 @@
         <mxCell id="IbLXkhlVdiIV-Ifzlw0J-16" value="MQ" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="170" y="300" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IbLXkhlVdiIV-Ifzlw0J-17" value="老链路" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="158" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IbLXkhlVdiIV-Ifzlw0J-18" value="新链路" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="325" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="IbLXkhlVdiIV-Ifzlw0J-20" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="339.5" y="240" as="sourcePoint" />
@@ -70,14 +64,17 @@
         <mxCell id="IbLXkhlVdiIV-Ifzlw0J-31" value="Model" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IbLXkhlVdiIV-Ifzlw0J-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IbLXkhlVdiIV-Ifzlw0J-27" target="IbLXkhlVdiIV-Ifzlw0J-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="340" as="sourcePoint" />
-            <mxPoint x="580" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IbLXkhlVdiIV-Ifzlw0J-34" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="540" y="322.5" width="30" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IbLXkhlVdiIV-Ifzlw0J-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0.33;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IbLXkhlVdiIV-Ifzlw0J-27" target="IbLXkhlVdiIV-Ifzlw0J-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="360" as="sourcePoint" />
+            <mxPoint x="450" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IbLXkhlVdiIV-Ifzlw0J-40" value="改为Parquet提效" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="248" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
