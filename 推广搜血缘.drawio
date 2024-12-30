@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="Page-1" id="Rh6VlPvLoZntSHXJzEm3">
-    <mxGraphModel dx="1026" dy="1750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,7 +30,7 @@
         <mxCell id="I_cUN8AiSvmmq4-lAWB_-6" value="Zebra" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="385" y="130" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I_cUN8AiSvmmq4-lAWB_-8" value="索引" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I_cUN8AiSvmmq4-lAWB_-8" value="索引&lt;div&gt;RedIndex&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I_cUN8AiSvmmq4-lAWB_-9" value="LSE/LVE/LRE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -59,6 +59,11 @@
         <mxCell id="I_cUN8AiSvmmq4-lAWB_-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I_cUN8AiSvmmq4-lAWB_-23" target="I_cUN8AiSvmmq4-lAWB_-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="I_cUN8AiSvmmq4-lAWB_-34" value="LarcTrain" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I_cUN8AiSvmmq4-lAWB_-30">
+          <mxGeometry x="-0.24" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="I_cUN8AiSvmmq4-lAWB_-23" value="样本&lt;div&gt;TFrecord/Parquet&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="70" width="120" height="60" as="geometry" />
         </mxCell>
@@ -85,11 +90,52 @@
         <mxCell id="I_cUN8AiSvmmq4-lAWB_-28" value="Larc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I_cUN8AiSvmmq4-lAWB_-29" value="模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I_cUN8AiSvmmq4-lAWB_-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I_cUN8AiSvmmq4-lAWB_-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1230" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I_cUN8AiSvmmq4-lAWB_-38" value="上线" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I_cUN8AiSvmmq4-lAWB_-33">
+          <mxGeometry x="0.0448" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I_cUN8AiSvmmq4-lAWB_-29" value="模型训练&lt;div&gt;Model&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I_cUN8AiSvmmq4-lAWB_-31" value="Larc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I_cUN8AiSvmmq4-lAWB_-35" value="Lambda" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I_cUN8AiSvmmq4-lAWB_-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I_cUN8AiSvmmq4-lAWB_-36" target="I_cUN8AiSvmmq4-lAWB_-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I_cUN8AiSvmmq4-lAWB_-40" value="打分排序" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I_cUN8AiSvmmq4-lAWB_-39">
+          <mxGeometry x="0.0889" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I_cUN8AiSvmmq4-lAWB_-36" value="在线推理&lt;div&gt;Model&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I_cUN8AiSvmmq4-lAWB_-37" value="业务服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I_cUN8AiSvmmq4-lAWB_-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="I_cUN8AiSvmmq4-lAWB_-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="-50" as="sourcePoint" />
+            <mxPoint x="520" y="-100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1520" y="-50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I_cUN8AiSvmmq4-lAWB_-45" value="提供召回数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I_cUN8AiSvmmq4-lAWB_-44">
+          <mxGeometry x="0.9128" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
