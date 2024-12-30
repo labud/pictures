@@ -31,20 +31,30 @@
             <mxPoint x="450" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XO-GALKPfHcBI_01L1h0-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="XO-GALKPfHcBI_01L1h0-9" target="XO-GALKPfHcBI_01L1h0-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XO-GALKPfHcBI_01L1h0-11" value="错误数据" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="XO-GALKPfHcBI_01L1h0-9" target="XO-GALKPfHcBI_01L1h0-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="80" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XO-GALKPfHcBI_01L1h0-9" value="模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="-10" width="280" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XO-GALKPfHcBI_01L1h0-10" value="统一元数据" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="130" y="80" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v-sFqhosU-s-XcPySd75-1" value="元数据A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v-sFqhosU-s-XcPySd75-2" value="元数据B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v-sFqhosU-s-XcPySd75-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.554;exitY=1.058;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XO-GALKPfHcBI_01L1h0-9" target="XO-GALKPfHcBI_01L1h0-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="60" as="sourcePoint" />
+            <mxPoint x="200" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-sFqhosU-s-XcPySd75-4" value="正确数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v-sFqhosU-s-XcPySd75-3">
+          <mxGeometry x="-0.0851" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
